@@ -44,5 +44,14 @@ public class Pet {
     public void setWeight(double weight) {
         this.weight = weight;
     }
+    //code tiep tuc viet va day len .
+    //git add *
+    /*1. git add
+    2. git commit -m "viet thay doi cai gi "
+    3. git push.
+    * */
 
+    public  void showProfile(){
+        System.out.println("this is commit local");
+    }
 }
