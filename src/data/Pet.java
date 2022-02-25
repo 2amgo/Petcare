@@ -54,6 +54,9 @@ public class Pet {
     public  void showProfile(){
         System.out.println("this is commit local");
         System.out.println("this is commit by another");
-       
+
+    }
+    public int eat(){
+        return  5;
     }
 }
